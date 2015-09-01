@@ -4,9 +4,9 @@ layout: home
 
 ## Quick links:
 
-- [Python Boot Camp: September 28-29, 2015](({{ "bootcamp" | prepend: site.baseurl }}))
+- [Python Boot Camp: September 28-29, 2015]({{ "bootcamp" | prepend: site.baseurl }})
 
-- [Weekly Python Seminar: Mondays 3pm-4pm](({{ "seminar" | prepend: site.baseurl }}))
+- [Weekly Python Seminar: Mondays 3pm-4pm]({{ "seminar" | prepend: site.baseurl }})
 
 ## Information
 
