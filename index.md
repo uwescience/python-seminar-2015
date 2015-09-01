@@ -2,9 +2,7 @@
 layout: home
 ---
 
-<div class="home">
-
-## 2015 UW eScience Python Seminar
+# 2015 UW eScience Python Seminar
 
 Increasingly, scientific research in many fields is driven by computational
 approaches to large datasets, but graduate students are often expected to pick
@@ -20,16 +18,18 @@ which were offered in
 in 2015 we are dropping the course number and offering this content through a
 more informal weekly seminar.
 
-  <h1 class="page-heading">Posts</h1>
+<div class="home">
+
+  <h2 class="page-heading">Posts</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
+        <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        </h3>
       </li>
     {% endfor %}
   </ul>
