@@ -15,11 +15,11 @@ permalink: /bootcamp/
 
 - **Topics**: We will cover the following topics:
   
-  - basic use of Python
+  - basics of Python for working with data
   - essential scientific Python libraries such as Numpy, Pandas, and Matplotlib
   - version control and collaboration using Git and Github
-  - effective approaches to structuring code, data, and analysis for
-    reproducibility.
+  - effective approaches to structuring your computational projects for
+    efficiency and reproducibility.
 
 The bootcamp will be very hands-on, and students should come with their
 laptops ready to work together on examples and breakout activities.
