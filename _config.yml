@@ -2,8 +2,8 @@
 title: 2015 UW Python Seminar and Bootcamp
 email: jakevdp -- AT -- uw.edu
 description: "Materials for the 2015 Python seminar"
-baseurl: "http://uwescience.github.io/python-seminar-2015"
-url: "http://uwescience.github.io/python-seminar-2015"
+baseurl: "http://uwescience.github.io/python-seminar-2015/"
+url: "http://uwescience.github.io/python-seminar-2015/"
 twitter_username: uwescience
 github_username:  uwescience
 
