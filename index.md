@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# 2015 UW eScience Python Seminar
-
 Increasingly, scientific research in many fields is driven by computational
 approaches to large datasets, but graduate students are often expected to pick
 up these essential computational skills on their own. To help address this, UW
@@ -42,6 +40,9 @@ The seminar consists of two parts:
   Throughout UW's 2015 fall quarter, we will meet weekly to hear from UW
   community members about the computational tools they use for their own
   research. More information on this will be posted soon!
+
+
+The seminar is sponsored by the [UW eScience Institute](http://escience.washington.edu/), with generous funding from the [Alfred P. Sloan Foundation](http://www.sloan.org/), the [Gordon and Betty Moore Foundation](https://www.moore.org), and the [Washington Research Foundation](http://www.wrfseattle.org/).
   
 
 <div class="home">
