@@ -20,15 +20,16 @@ more informal weekly seminar.
 
 The seminar consists of two parts:
 
-Python Boot Camp: September 28-29, 2015
+- **Python Boot Camp: September 28-29, 2015**
 
-: On Sept. 28-29, 2015, we will offer a two-day bootcamp (9am-4pm each day)
+  On Sept. 28-29, 2015, we will offer a two-day bootcamp (9am-4pm each day)
   covering the following topics:
 
   - basic use of Python
   - essential scientific Python libraries such as Numpy, Pandas, and Matplotlib
   - version control and collaboration using Git and Github
-  - effective approaches to structuring code, data, and analysis for reproducibility.
+  - effective approaches to structuring code, data, and analysis for
+    reproducibility.
 
   The bootcamp will be very hands-on, and students should come with their
   laptops ready to work together on examples and breakout activities.
@@ -36,9 +37,9 @@ Python Boot Camp: September 28-29, 2015
   the cost of the space we are using). **Space is limited**: please register
   through [eventbrite (link coming soon!)]().
 
-Weekly Python Seminar: Mondays 3pm-4pm
+- **Weekly Python Seminar: Mondays 3pm-4pm**
 
-: Throughout UW's 2015 fall quarter, we will meet weekly to hear from UW
+  Throughout UW's 2015 fall quarter, we will meet weekly to hear from UW
   community members about the computational tools they use for their own
   research. More information on this will be posted soon!
   
