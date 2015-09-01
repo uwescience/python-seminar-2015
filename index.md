@@ -20,27 +20,27 @@ more informal weekly seminar.
 
 The seminar consists of two parts:
 
-### Python Boot Camp: September 28-29, 2015
+Python Boot Camp: September 28-29, 2015
 
-On Sept. 28-29, 2015, we will offer a two-day bootcamp (9am-4pm each day)
-covering the following topics:
+: On Sept. 28-29, 2015, we will offer a two-day bootcamp (9am-4pm each day)
+  covering the following topics:
 
-- basic use of Python
-- essential scientific Python libraries such as Numpy, Pandas, and Matplotlib
-- version control and collaboration using Git and Github
-- effective approaches to structuring code, data, and analysis for reproducibility.
+  - basic use of Python
+  - essential scientific Python libraries such as Numpy, Pandas, and Matplotlib
+  - version control and collaboration using Git and Github
+  - effective approaches to structuring code, data, and analysis for reproducibility.
 
-The bootcamp will be very hands-on, and students should come with their laptops
-ready to work together on examples and breakout activities.
-Capacity for the bootcamp is 60, and the cost is $30 (which partially offsets
-the cost of the space we are using). **Space is limited**: please register through
-[eventbrite (link coming soon!)]().
+  The bootcamp will be very hands-on, and students should come with their
+  laptops ready to work together on examples and breakout activities.
+  Capacity for the bootcamp is 60, and the cost is $30 (which partially offsets
+  the cost of the space we are using). **Space is limited**: please register
+  through [eventbrite (link coming soon!)]().
 
-### Weekly Python Seminar: Mondays 3pm-4pm
+Weekly Python Seminar: Mondays 3pm-4pm
 
-Throughout UW's 2015 fall quarter, we will meet weekly to hear from UW community
-members about the computational tools they use for their own research. More
-information on this will be posted soon!
+: Throughout UW's 2015 fall quarter, we will meet weekly to hear from UW
+  community members about the computational tools they use for their own
+  research. More information on this will be posted soon!
   
 
 <div class="home">
