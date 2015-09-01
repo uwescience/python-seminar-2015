@@ -4,9 +4,9 @@ layout: home
 
 ## Quick links:
 
-- [Python Boot Camp: September 28-29, 2015]()
+- [Python Boot Camp: September 28-29, 2015](({{ "bootcamp" | prepend: site.baseurl }}))
 
-- [Weekly Python Seminar: Mondays 3pm-4pm]()
+- [Weekly Python Seminar: Mondays 3pm-4pm](({{ "seminar" | prepend: site.baseurl }}))
 
 ## Information
 
@@ -24,7 +24,7 @@ which were offered in
 in 2015 we are dropping the course number and offering this content through a
 more informal weekly seminar.
 
-Please see the [Bootcamp Information]({{ "/bootcamp/" | prepend: site.baseurl }}) and [Seminar Information]({{ "/seminar/" | prepend: site.baseurl }}) pages.
+Please see the [Bootcamp Information]({{ "bootcamp" | prepend: site.baseurl }}) and [Seminar Information]({{ "seminar" | prepend: site.baseurl }}) pages.
 
 ## Sponsors
 
