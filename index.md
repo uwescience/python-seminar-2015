@@ -24,13 +24,13 @@ The seminar consists of two parts:
 
   On Sept. 28-29, 2015, we will offer a two-day bootcamp (9am-4pm each day)
   covering the following topics:
-
+  
   - basic use of Python
   - essential scientific Python libraries such as Numpy, Pandas, and Matplotlib
   - version control and collaboration using Git and Github
   - effective approaches to structuring code, data, and analysis for
     reproducibility.
-
+  
   The bootcamp will be very hands-on, and students should come with their
   laptops ready to work together on examples and breakout activities.
   Capacity for the bootcamp is 60, and the cost is $30 (which partially offsets
@@ -46,6 +46,7 @@ The seminar consists of two parts:
 
 <div class="home">
 
+<!--
   <h2 class="page-heading">Posts</h1>
 
   <ul class="post-list">
@@ -59,6 +60,7 @@ The seminar consists of two parts:
       </li>
     {% endfor %}
   </ul>
+-->
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
