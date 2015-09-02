@@ -4,9 +4,9 @@ layout: home
 
 ## Quick links:
 
-- [Python Boot Camp: September 28-29, 2015]({{ "bootcamp" | prepend: site.baseurl }})
+- [Python Boot Camp: September 28-29, 2015]({{ "bootcamp" | prepend: site.baseurl }}) (Capacity Limited; Registration Required).
 
-- [Weekly Python Seminar: Mondays 3pm-4pm]({{ "seminar" | prepend: site.baseurl }})
+- [Weekly Python Seminar: Mondays 3pm-4pm]({{ "seminar" | prepend: site.baseurl }}) (Open to all).
 
 ## Information
 
@@ -25,6 +25,13 @@ in 2015 we are dropping the course number and offering this content through a
 more informal weekly seminar.
 
 Please see the [Bootcamp Information]({{ "bootcamp" | prepend: site.baseurl }}) and [Seminar Information]({{ "seminar" | prepend: site.baseurl }}) pages.
+
+## Who is this For?
+
+This is intended for first and second-year graduate students at the University
+of Washington, though anyone from the University community is welcome. The
+bootcamp will assume that attendees have some background in writing code (i.e.
+have written functions and loops in some language).
 
 ## Sponsors
 
