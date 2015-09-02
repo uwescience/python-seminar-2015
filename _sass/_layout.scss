@@ -8,6 +8,8 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    background-image: "{{ "/images/logo.png" | prepend: site.baseurl }}";
 }
 
 .site-title {
