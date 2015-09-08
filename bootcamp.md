@@ -11,7 +11,8 @@ permalink: /bootcamp/
 - **Cost**: $30, which partially offsets the cost of the space we are using
 
 - **Registration**: we have space for 60 people; registration is
-  first-come-first-served through [eventbrite (link coming soon!)]().
+  first-come-first-served, and you can register through
+  [eventbrite](https://www.eventbrite.com/e/uw-python-boot-camp-tickets-18421722869). 
 
 - **Topics**: We will cover the following topics:
   
@@ -21,5 +22,7 @@ permalink: /bootcamp/
   - effective approaches to structuring your computational projects for
     efficiency and reproducibility.
 
-The bootcamp will be very hands-on, and students should come with their
-laptops ready to work together on examples and breakout activities.
+- **What to Expect**:
+
+  The bootcamp will be very hands-on, and students should come with their
+  laptops ready to work together on examples and breakout activities.
