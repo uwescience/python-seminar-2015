@@ -4,4 +4,6 @@
 
 3. Save the file to a place where you've been working on notebooks.
 
-4. Run `ipython notebook` in that directory and open the `matplotlib-exercises` notebook.
+4. Do the same with the `data` directory, and place it in the same place as your notebook.  
+
+5. Run `ipython notebook` in that directory and open the `matplotlib-exercises` notebook.
