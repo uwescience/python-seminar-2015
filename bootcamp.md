@@ -26,3 +26,8 @@ permalink: /bootcamp/
 
   The bootcamp will be very hands-on, and students should come with their
   laptops ready to work together on examples and breakout activities.
+
+
+- **Content**:
+
+  Please see [https://github.com/uwescience/python-seminar-2015](the github page) for the course content.
