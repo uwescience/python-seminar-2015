@@ -30,4 +30,4 @@ permalink: /bootcamp/
 
 - **Content**:
 
-  Please see (the github page)[https://github.com/uwescience/python-seminar-2015] for the course content.
+  Please see [the github page](https://github.com/uwescience/python-seminar-2015) for the course content.
