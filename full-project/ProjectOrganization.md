@@ -4,6 +4,8 @@ root: ../..
 title: Project Organization for Reproducible Research
 ---
 
+#Project Organization for Reproducible Research
+
 Introduction
 ------------
 ####*Up until now you learnt:*
@@ -283,7 +285,8 @@ Documentation is crucial for creating maintable code!
 
 This is better:
 
-```Initializing the number of objects
+```
+	# Initializing the number of objects
 	x = 0
 	
 ```
