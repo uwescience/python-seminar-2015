@@ -136,10 +136,10 @@ to frequently commit your changes as we discussed in the Git session.
 
 The data for this project can be retrieved online, but for the sake of the exercise, we will download it and place it locally.
 
-TODO: Download the data file from [here](http://ghdx.healthdata.org/sites/default/files/%20'record-attached-files/IHME_PHMRC_VA_DATA_ADULT_Y2013M09D11_0.csv) and 
+TODO: Download the data file from [here](http://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_PHMRC_VA_DATA_ADULT_Y2013M09D11_0.csv) and 
 place it in the `data` subdirectory.
 
-TODO: Download the metadata from [here](http://ghdx.healthdata.org/sites/default/files/%20'record-attached-files/IHME_PHMRC_VA_DATA_CODEBOOK_Y2013M09D11_0.xlsx) and place it in the `data` subdirectory.
+TODO: Download the metadata from [here](http://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_PHMRC_VA_DATA_CODEBOOK_Y2013M09D11_0.xlsx) and place it in the `data` subdirectory.
 
 Q: Should your `data` directory be placed under version control?
  
