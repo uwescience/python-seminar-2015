@@ -28,6 +28,8 @@
 # Iterate over each word and
 # 1) generate the data frame
 # 2) write it to a file in the results directory
+# Hint: use the pandas to_csv function:
+# help(pd.DataFrame.to_csv)
 #
 # Note: Can you think of a way to automatically
 # generate the names of the file using strings. Will your

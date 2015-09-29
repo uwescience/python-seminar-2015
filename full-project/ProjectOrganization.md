@@ -1,8 +1,8 @@
----
+<!---
 layout: lesson
 root: ../..
 title: Project Organization for Reproducible Research
----
+--->
 
 #Project Organization for Reproducible Research
 
@@ -136,10 +136,10 @@ to frequently commit your changes as we discussed in the Git session.
 
 The data for this project can be retrieved online, but for the sake of the exercise, we will download it and place it locally.
 
-TODO: Download the data file from [here](http://ghdx.healthdata.org/sites/default/files/%20'record-attached-files/IHME_PHMRC_VA_DATA_ADULT_Y2013M09D11.csv) and 
+TODO: Download the data file from [here](http://ghdx.healthdata.org/sites/default/files/%20'record-attached-files/IHME_PHMRC_VA_DATA_ADULT_Y2013M09D11_0.csv) and 
 place it in the `data` subdirectory.
 
-TODO: Download the metadata from [here](http://ghdx.healthdata.org/sites/default/files/%20'record-attached-files/IHME_PHMRC_VA_DATA_CODEBOOK_Y2013M09D11.xlsx) and place it in the `data` subdirectory.
+TODO: Download the metadata from [here](http://ghdx.healthdata.org/sites/default/files/%20'record-attached-files/IHME_PHMRC_VA_DATA_CODEBOOK_Y2013M09D11_0.xlsx) and place it in the `data` subdirectory.
 
 Q: Should your `data` directory be placed under version control?
  
@@ -159,7 +159,7 @@ TODO: Add a description of your data `README.txt` file and place it in the data
 subdirectory. You can start by copying the text bellow:
 
 
-	Data downloaded from the Global Health Data Exchange website (http://ghdx.healthdata.org/) from the following link: http://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_PHMRC_VA_DATA_ADULT_Y2013M09D11_1.csv. It includes Population Health Metrics Research Consortium Gold Standard Verbal Autopsy Adult Data 2013. Add extra details ...
+	Data downloaded from the Global Health Data Exchange website (http://ghdx.healthdata.org/) from the following link: http://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_PHMRC_VA_DATA_ADULT_Y2013M09D11_0.csv. It includes Population Health Metrics Research Consortium Gold Standard Verbal Autopsy Adult Data 2013. Add extra details ...
 	
 	
 
@@ -203,7 +203,7 @@ def myFunction(a):
 ```
 
 
-Ypu can call functions from this module:
+You can call functions from this module:
 
 ```
 import myModule
@@ -228,12 +228,7 @@ or
 
 TODO: Create a module called `verbal_autopsy_functions.py` and place it in the `src` directory.
 
-TODO: Define a function in it: 
-
-
-counts\_per_word, which takes as inputs a data frame of verbal autopsy data and a specific word, and returns a table of this form:
-
-counts\_per_word(df,word\_womb)
+TODO: Define a function `counts_per_word` which counts the appearence of different words for every combination of site and cause of death. It should take as inputs a data frame in the form of the verbal autopsy data and a specific word, and returns a table of this form:
 
 
 |  Site      | Cause of Death| Times word_fever is mentioned| 
@@ -241,7 +236,13 @@ counts\_per_word(df,word\_womb)
 | AP	   | AIDS        |97
 |...|...| .....					|
 
-	
+Example usage:
+```
+	df_fever = counts_per_word(df,'word_fever')
+```
+
+
+I have provided some files to help you get started [here](https://github.com/uwescience/python-seminar-2015/tree/master/full-projectpy/helper_files).
 	
 ### Testing
 
@@ -380,8 +381,8 @@ At this point, your project directory should look like this:
 	.
     |-- README.txt
     |-- data
-    |   |-- IHME_PHMRC_VA_DATA_ADULT_Y2013M09D11.csv
-    |	|-- IHME_PHMRC_VA_DATA_CODEBOOK_Y2013M09D11.xlsx
+    |   |-- IHME_PHMRC_VA_DATA_ADULT_Y2013M09D11_0.csv
+    |	|-- IHME_PHMRC_VA_DATA_CODEBOOK_Y2013M09D11_0.xlsx
     |-- man
     |-- results
     |-- src
@@ -423,8 +424,8 @@ After the execution, your directory should look like the one below.
 	.
     |-- README.txt
     |-- data
-    |   |-- IHME_PHMRC_VA_DATA_ADULT_Y2013M09D11.csv
-    |	|-- IHME_PHMRC_VA_DATA_CODEBOOK_Y2013M09D11.xlsx
+    |   |-- IHME_PHMRC_VA_DATA_ADULT_Y2013M09D11_0.csv
+    |	|-- IHME_PHMRC_VA_DATA_CODEBOOK_Y2013M09D11_0.xlsx
     |-- man
     |-- results
     |-- |-- counts_table_fever.csv
@@ -435,7 +436,7 @@ After the execution, your directory should look like the one below.
     |   |-- test_verbal_autopsy_functions.py
     |   |-- verbal_autopsy_analysis.py
 
-Q: Should we you the 
+Q: Should you add the 
 contents of the `results` directory to your git repository?
 
 A: You do not need to do this, since the files in your `results` 
