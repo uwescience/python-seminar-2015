@@ -26,7 +26,7 @@ research.
 
 - **Nov 3, 2015**: TBA
 
-- **Nov 10, 2015**: *no seminar due to Veterans Day holiday*
+- **Nov 10, 2015**: TBA
 
 - **Nov 17, 2015**: TBA
 
