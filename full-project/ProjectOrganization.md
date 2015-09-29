@@ -4,7 +4,7 @@ root: ../..
 title: Project Organization for Reproducible Research
 --->
 
-#Project Organization for Reproducible Research
+#Structuring A Scientific Project
 
 Introduction
 ------------
@@ -146,7 +146,7 @@ Q: Should your `data` directory be placed under version control?
 A: Raw data should never change  =>  there's only the original version!
 
 A reasonable rule of thumb for getting started is that if the file is 
-realatively small (ours is < 100k), go ahead and commit it to the Git 
+realatively small, go ahead and commit it to the Git 
 repository, as you won't be wasting much hard disk space. Additionally, the 
 file will then travel with your code, so if you push your repository to Github 
 (for example) and one of your collaborators clones a copy, they'll have 
@@ -231,7 +231,7 @@ TODO: Create a module called `verbal_autopsy_functions.py` and place it in the `
 TODO: Define a function `counts_per_word` which counts the appearence of different words for every combination of site and cause of death. It should take as inputs a data frame in the form of the verbal autopsy data and a specific word, and returns a table of this form:
 
 
-|  Site      | Cause of Death| Times word_fever is mentioned| 
+|  site      | Cause of Death| Times word_fever is mentioned| 
 |------------|---------------|------------------------------|
 | AP	   | AIDS        |97
 |...|...| .....					|
