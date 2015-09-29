@@ -16,22 +16,22 @@ research.
 
 ## Schedule
 
-- **Oct 6, 2015**: *no seminar this week due to eScience all-hands meeting*
+- **Oct 5, 2015**: *no seminar this week due to eScience all-hands meeting*
 
-- **Oct 13, 2015**: TBA
+- **Oct 12, 2015**: TBA
 
-- **Oct 20, 2015**: TBA
+- **Oct 19, 2015**: TBA
 
-- **Oct 27, 2015**: TBA
+- **Oct 26, 2015**: TBA
 
-- **Nov 3, 2015**: TBA
+- **Nov 2, 2015**: TBA
 
-- **Nov 10, 2015**: TBA
+- **Nov 9, 2015**: TBA
 
-- **Nov 17, 2015**: TBA
+- **Nov 16, 2015**: TBA
 
-- **Nov 24, 2015**: *no seminar this week due to Thanksgiving holiday*
+- **Nov 23, 2015**: *no seminar this week due to Thanksgiving holiday*
 
-- **Dec 1, 2015**: TBA
+- **Nov 30, 2015**: TBA
 
-- **Dec 8, 2015**: TBA
+- **Dec 7, 2015**: TBA
