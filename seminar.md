@@ -22,11 +22,11 @@ research.
 
 - **Oct 19, 2015**: Fast Numerical Computing with NumPy (Jake VanderPlas)
 
-- **Oct 26, 2015**: Cython: Extending Python with C (Ariel Rokem)
+- **Oct 26, 2015**: AstroPy (Brett Morris)
 
 - **Nov 2, 2015**: Minimization & Optimization (Valentina Staneva)
 
-- **Nov 9, 2015**: AstroPy (Brett Morris)
+- **Nov 9, 2015**: Cython: Extending Python with C (Ariel Rokem)
 
 - **Nov 16, 2015**: Xray and Dask (Anthony Arendt)
 
