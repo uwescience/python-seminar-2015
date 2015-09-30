@@ -155,8 +155,7 @@ everything they need to generate your results.
 However, if your file is relatively large AND is backed up elsewhere, you 
 might want to avoid making a duplicate copy in the `.git` directory. You can add it to the .gitignore file to avoid accidentally adding it to Github. 
 
-TODO: Add a description of your data `README.txt` file and place it in the data 
-subdirectory. You can start by copying the text bellow:
+TODO: Add a description of your data  in the `README.txt`. You can start by copying the text bellow:
 
 
 	Data downloaded from the Global Health Data Exchange website (http://ghdx.healthdata.org/) from the following link: http://ghdx.healthdata.org/sites/default/files/record-attached-files/IHME_PHMRC_VA_DATA_ADULT_Y2013M09D11_0.csv. It includes Population Health Metrics Research Consortium Gold Standard Verbal Autopsy Adult Data 2013. Add extra details ...
@@ -242,7 +241,7 @@ Example usage:
 ```
 
 
-I have provided some files to help you get started [here](https://github.com/uwescience/python-seminar-2015/tree/master/full-projectpy/helper_files).
+I have provided some files to help you get started [here](https://github.com/uwescience/python-seminar-2015/tree/master/full-project/helper_files).
 	
 ### Testing
 
