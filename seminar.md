@@ -30,8 +30,8 @@ research.
 
 - **Nov 16, 2015**: Xray and Dask (Anthony Arendt)
 
-- **Nov 23, 2015**: *no seminar this week due to Thanksgiving holiday*
+- **Nov 23, 2015**: TBA *(perhaps skip due to Thanksgiving holiday)*
 
 - **Nov 30, 2015**: Bayesian Analysis with Python (Dan Foreman-Mackey)
 
-- **Dec 7, 2015**: TBA
+- **Dec 7, 2015**: Python and Social Networks (Jose Manuel Magallanes)
