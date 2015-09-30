@@ -32,6 +32,6 @@ research.
 
 - **Nov 23, 2015**: *no seminar this week due to Thanksgiving holiday*
 
-- **Nov 30, 2015**: TBA
+- **Nov 30, 2015**: Bayesian Analysis with Python (Dan Foreman-Mackey)
 
 - **Dec 7, 2015**: TBA
