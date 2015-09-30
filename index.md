@@ -6,7 +6,7 @@ layout: home
 
 - [Python Boot Camp: September 28-29, 2015]({{ "bootcamp" | prepend: site.baseurl }}) (Capacity Limited; Registration Required).
 
-- [Weekly Python Seminar: Mondays 3pm-4pm]({{ "seminar" | prepend: site.baseurl }}) (Open to all).
+- [Weekly Python Seminar: Mondays 3pm-4pm]({{ "seminar" | prepend: site.baseurl }}) (Open to all; no registration required).
 
 ## Information
 
@@ -23,15 +23,9 @@ which were offered in
 [2014](http://www.astro.washington.edu/users/vanderplas/Astr599_2014/);
 in 2015 we are dropping the course number and offering this content through a
 more informal weekly seminar.
+Materials for the 2015 topics can be found on our [github page](http://github.com/uwescience/python-seminar-2015).
 
-Please see the [Bootcamp Information]({{ "bootcamp" | prepend: site.baseurl }}) and [Seminar Information]({{ "seminar" | prepend: site.baseurl }}) pages.
-
-## Who is this For?
-
-This is intended for first and second-year graduate students at the University
-of Washington, though anyone from the University community is welcome. The
-bootcamp will assume that attendees have some background in writing code (i.e.
-have written functions and loops in some language).
+For more details, please see the [Bootcamp Information]({{ "bootcamp" | prepend: site.baseurl }}) and [Seminar Information]({{ "seminar" | prepend: site.baseurl }}) pages.
 
 ## Sponsors
 
