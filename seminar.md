@@ -24,7 +24,7 @@ research.
 
 - **Oct 26, 2015**: AstroPy (Brett Morris)
 
-- **Nov 2, 2015**: Effective Data Manipulation in Pandas (Valentina Staneva)
+- **Nov 2, 2015**: Performance of Pandas Data Frames by Example (Valentina Staneva)
 
 - **Nov 9, 2015**: Cython: Extending Python with C (Ariel Rokem)
 
