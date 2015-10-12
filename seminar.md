@@ -18,7 +18,7 @@ research.
 
 - **Oct 5, 2015**: *no seminar this week due to eScience all-hands meeting*
 
-- **Oct 12, 2015**: IPython: Beyond Normal Python (Jake VanderPlas)
+- **Oct 12, 2015**: IPython: Beyond Normal Python ([notebook](http://nbviewer.jupyter.org/url/uwescience.github.io/python-seminar-2015/notebooks/IPythonOverview.ipynb)) (Jake VanderPlas)
 
 - **Oct 19, 2015**: Fast Numerical Computing with NumPy (Jake VanderPlas)
 
