@@ -28,9 +28,9 @@ research.
 
 - **Nov 9, 2015**: Cython: Extending Python with C (Ariel Rokem)
 
-- **Nov 16, 2015**: Xray and Dask (Anthony Arendt)
+- **Nov 16, 2015**: TBA
 
-- **Nov 23, 2015**: TBA *(perhaps skip due to Thanksgiving holiday)*
+- **Nov 23, 2015**: Xray and Dask (Anthony Arendt)
 
 - **Nov 30, 2015**: Bayesian Analysis with Python (Dan Foreman-Mackey)
 
