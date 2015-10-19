@@ -20,7 +20,7 @@ research.
 
 - **Oct 12, 2015**: IPython: Beyond Normal Python ([notebook](http://nbviewer.jupyter.org/url/uwescience.github.io/python-seminar-2015/notebooks/IPythonOverview.ipynb)) (Jake VanderPlas)
 
-- **Oct 19, 2015**: Fast Numerical Computing with NumPy (Jake VanderPlas)
+- **Oct 19, 2015**: Fast Numerical Computing with NumPy ([slides](https://speakerdeck.com/jakevdp/losing-your-loops-fast-numerical-computing-with-numpy-pycon-2015)) (Jake VanderPlas)
 
 - **Oct 26, 2015**: AstroPy (Brett Morris)
 
