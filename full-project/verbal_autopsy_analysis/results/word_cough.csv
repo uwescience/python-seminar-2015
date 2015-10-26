@@ -1,0 +1,205 @@
+,site,Cause of death,Times word_cough is mentioned.
+0,AP,AIDS,34.0
+1,Bohol,AIDS,
+2,Dar,AIDS,0.0
+3,Mexico,AIDS,8.0
+4,Pemba,AIDS,
+5,UP,AIDS,6.0
+6,AP,Acute Myocardial Infarction,3.0
+7,Bohol,Acute Myocardial Infarction,40.0
+8,Dar,Acute Myocardial Infarction,0.0
+9,Mexico,Acute Myocardial Infarction,0.0
+10,Pemba,Acute Myocardial Infarction,
+11,UP,Acute Myocardial Infarction,9.0
+12,AP,Asthma,8.0
+13,Bohol,Asthma,1.0
+14,Dar,Asthma,0.0
+15,Mexico,Asthma,0.0
+16,Pemba,Asthma,0.0
+17,UP,Asthma,0.0
+18,AP,Bite of Venomous Animal,0.0
+19,Bohol,Bite of Venomous Animal,0.0
+20,Dar,Bite of Venomous Animal,
+21,Mexico,Bite of Venomous Animal,0.0
+22,Pemba,Bite of Venomous Animal,
+23,UP,Bite of Venomous Animal,0.0
+24,AP,Breast Cancer,3.0
+25,Bohol,Breast Cancer,10.0
+26,Dar,Breast Cancer,0.0
+27,Mexico,Breast Cancer,5.0
+28,Pemba,Breast Cancer,
+29,UP,Breast Cancer,0.0
+30,AP,COPD,13.0
+31,Bohol,COPD,3.0
+32,Dar,COPD,0.0
+33,Mexico,COPD,1.0
+34,Pemba,COPD,
+35,UP,COPD,16.0
+36,AP,Cervical Cancer,0.0
+37,Bohol,Cervical Cancer,1.0
+38,Dar,Cervical Cancer,0.0
+39,Mexico,Cervical Cancer,0.0
+40,Pemba,Cervical Cancer,
+41,UP,Cervical Cancer,0.0
+42,AP,Cirrhosis,4.0
+43,Bohol,Cirrhosis,4.0
+44,Dar,Cirrhosis,0.0
+45,Mexico,Cirrhosis,3.0
+46,Pemba,Cirrhosis,
+47,UP,Cirrhosis,2.0
+48,AP,Colorectal Cancer,1.0
+49,Bohol,Colorectal Cancer,2.0
+50,Dar,Colorectal Cancer,0.0
+51,Mexico,Colorectal Cancer,0.0
+52,Pemba,Colorectal Cancer,
+53,UP,Colorectal Cancer,
+54,AP,Diabetes,6.0
+55,Bohol,Diabetes,11.0
+56,Dar,Diabetes,0.0
+57,Mexico,Diabetes,1.0
+58,Pemba,Diabetes,0.0
+59,UP,Diabetes,3.0
+60,AP,Diarrhea/Dysentery,6.0
+61,Bohol,Diarrhea/Dysentery,8.0
+62,Dar,Diarrhea/Dysentery,0.0
+63,Mexico,Diarrhea/Dysentery,0.0
+64,Pemba,Diarrhea/Dysentery,0.0
+65,UP,Diarrhea/Dysentery,0.0
+66,AP,Drowning,0.0
+67,Bohol,Drowning,0.0
+68,Dar,Drowning,0.0
+69,Mexico,Drowning,
+70,Pemba,Drowning,0.0
+71,UP,Drowning,0.0
+72,AP,Epilepsy,1.0
+73,Bohol,Epilepsy,0.0
+74,Dar,Epilepsy,0.0
+75,Mexico,Epilepsy,0.0
+76,Pemba,Epilepsy,
+77,UP,Epilepsy,0.0
+78,AP,Esophageal Cancer,0.0
+79,Bohol,Esophageal Cancer,6.0
+80,Dar,Esophageal Cancer,0.0
+81,Mexico,Esophageal Cancer,
+82,Pemba,Esophageal Cancer,
+83,UP,Esophageal Cancer,
+84,AP,Falls,1.0
+85,Bohol,Falls,5.0
+86,Dar,Falls,0.0
+87,Mexico,Falls,0.0
+88,Pemba,Falls,0.0
+89,UP,Falls,0.0
+90,AP,Fires,1.0
+91,Bohol,Fires,2.0
+92,Dar,Fires,0.0
+93,Mexico,Fires,0.0
+94,Pemba,Fires,0.0
+95,UP,Fires,0.0
+96,AP,Homicide,0.0
+97,Bohol,Homicide,0.0
+98,Dar,Homicide,0.0
+99,Mexico,Homicide,0.0
+100,Pemba,Homicide,0.0
+101,UP,Homicide,2.0
+102,AP,Leukemia/Lymphomas,0.0
+103,Bohol,Leukemia/Lymphomas,6.0
+104,Dar,Leukemia/Lymphomas,0.0
+105,Mexico,Leukemia/Lymphomas,2.0
+106,Pemba,Leukemia/Lymphomas,
+107,UP,Leukemia/Lymphomas,0.0
+108,AP,Lung Cancer,0.0
+109,Bohol,Lung Cancer,13.0
+110,Dar,Lung Cancer,0.0
+111,Mexico,Lung Cancer,4.0
+112,Pemba,Lung Cancer,
+113,UP,Lung Cancer,2.0
+114,AP,Malaria,0.0
+115,Bohol,Malaria,
+116,Dar,Malaria,0.0
+117,Mexico,Malaria,
+118,Pemba,Malaria,0.0
+119,UP,Malaria,2.0
+120,AP,Maternal,8.0
+121,Bohol,Maternal,4.0
+122,Dar,Maternal,0.0
+123,Mexico,Maternal,0.0
+124,Pemba,Maternal,0.0
+125,UP,Maternal,9.0
+126,AP,Other Cardiovascular Diseases,10.0
+127,Bohol,Other Cardiovascular Diseases,44.0
+128,Dar,Other Cardiovascular Diseases,0.0
+129,Mexico,Other Cardiovascular Diseases,4.0
+130,Pemba,Other Cardiovascular Diseases,
+131,UP,Other Cardiovascular Diseases,11.0
+132,AP,Other Infectious Diseases,11.0
+133,Bohol,Other Infectious Diseases,10.0
+134,Dar,Other Infectious Diseases,0.0
+135,Mexico,Other Infectious Diseases,1.0
+136,Pemba,Other Infectious Diseases,0.0
+137,UP,Other Infectious Diseases,7.0
+138,AP,Other Injuries,1.0
+139,Bohol,Other Injuries,0.0
+140,Dar,Other Injuries,0.0
+141,Mexico,Other Injuries,0.0
+142,Pemba,Other Injuries,0.0
+143,UP,Other Injuries,0.0
+144,AP,Other Non-communicable Diseases,5.0
+145,Bohol,Other Non-communicable Diseases,37.0
+146,Dar,Other Non-communicable Diseases,0.0
+147,Mexico,Other Non-communicable Diseases,2.0
+148,Pemba,Other Non-communicable Diseases,7.0
+149,UP,Other Non-communicable Diseases,3.0
+150,AP,Pneumonia,24.0
+151,Bohol,Pneumonia,91.0
+152,Dar,Pneumonia,0.0
+153,Mexico,Pneumonia,7.0
+154,Pemba,Pneumonia,1.0
+155,UP,Pneumonia,21.0
+156,AP,Poisonings,2.0
+157,Bohol,Poisonings,0.0
+158,Dar,Poisonings,0.0
+159,Mexico,Poisonings,1.0
+160,Pemba,Poisonings,0.0
+161,UP,Poisonings,0.0
+162,AP,Prostate Cancer,0.0
+163,Bohol,Prostate Cancer,4.0
+164,Dar,Prostate Cancer,0.0
+165,Mexico,Prostate Cancer,0.0
+166,Pemba,Prostate Cancer,
+167,UP,Prostate Cancer,
+168,AP,Renal Failure,9.0
+169,Bohol,Renal Failure,7.0
+170,Dar,Renal Failure,0.0
+171,Mexico,Renal Failure,2.0
+172,Pemba,Renal Failure,
+173,UP,Renal Failure,6.0
+174,AP,Road Traffic,1.0
+175,Bohol,Road Traffic,2.0
+176,Dar,Road Traffic,0.0
+177,Mexico,Road Traffic,1.0
+178,Pemba,Road Traffic,0.0
+179,UP,Road Traffic,1.0
+180,AP,Stomach Cancer,0.0
+181,Bohol,Stomach Cancer,2.0
+182,Dar,Stomach Cancer,0.0
+183,Mexico,Stomach Cancer,0.0
+184,Pemba,Stomach Cancer,
+185,UP,Stomach Cancer,
+186,AP,Stroke,4.0
+187,Bohol,Stroke,24.0
+188,Dar,Stroke,0.0
+189,Mexico,Stroke,2.0
+190,Pemba,Stroke,
+191,UP,Stroke,6.0
+192,AP,Suicide,2.0
+193,Bohol,Suicide,1.0
+194,Dar,Suicide,0.0
+195,Mexico,Suicide,0.0
+196,Pemba,Suicide,0.0
+197,UP,Suicide,1.0
+198,AP,TB,27.0
+199,Bohol,TB,24.0
+200,Dar,TB,0.0
+201,Mexico,TB,3.0
+202,Pemba,TB,0.0
+203,UP,TB,16.0
