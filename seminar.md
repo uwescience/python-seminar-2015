@@ -22,7 +22,7 @@ research.
 
 - **Oct 19, 2015**: Fast Numerical Computing with NumPy ([slides](https://speakerdeck.com/jakevdp/losing-your-loops-fast-numerical-computing-with-numpy-pycon-2015)) (Jake VanderPlas)
 
-- **Oct 26, 2015**: AstroPy (Brett Morris)
+- **Oct 26, 2015**: AstroPy ([notebook](http://nbviewer.jupyter.org/url/uwescience.github.io/python-seminar-2015/notebooks/intro-to-astropy.ipynb))(Brett Morris)
 
 - **Nov 2, 2015**: Performance of Pandas Data Frames by Example (Valentina Staneva)
 
