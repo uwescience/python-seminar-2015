@@ -24,7 +24,7 @@ research.
 
 - **Oct 26, 2015**: AstroPy ([notebook](http://nbviewer.jupyter.org/url/uwescience.github.io/python-seminar-2015/notebooks/intro_to_astropy.ipynb)) (Brett Morris)
 
-- **Nov 2, 2015**: Performance of Pandas Data Frames by Example (Valentina Staneva)
+- **Nov 2, 2015**: Performance of Pandas Data Frames by Example ([notebook](http://nbviewer.jupyter.org/url/uwescience.github.io/python-seminar-2015/notebooks/PandasPerformance/PandasPerformance.ipynb)) (Valentina Staneva)
 
 - **Nov 9, 2015**: Cython: Extending Python with C ([Materials](https://github.com/uwescience/python-seminar-2015/tree/master/cython))(Ariel Rokem)
 
