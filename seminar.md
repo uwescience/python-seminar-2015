@@ -26,7 +26,7 @@ research.
 
 - **Nov 2, 2015**: Performance of Pandas Data Frames by Example (Valentina Staneva)
 
-- **Nov 9, 2015**: Cython: Extending Python with C (Ariel Rokem)
+- **Nov 9, 2015**: Cython: Extending Python with C ([Materials](https://github.com/uwescience/python-seminar-2015/tree/master/cython))(Ariel Rokem)
 
 - **Nov 16, 2015**: TBA
 
