@@ -28,7 +28,7 @@ research.
 
 - **Nov 9, 2015**: Cython: Extending Python with C ([Materials](https://github.com/uwescience/python-seminar-2015/tree/master/cython))(Ariel Rokem)
 
-- **Nov 16, 2015**: TBA
+- **Nov 16, 2015**: Scikit-Learn: Machine Learning in Python (Jake VanderPlas)
 
 - **Nov 23, 2015**: Xray and Dask (Anthony Arendt)
 
