@@ -30,7 +30,7 @@ research.
 
 - **Nov 16, 2015**: Scikit-Learn: Machine Learning in Python ([Materials](http://nbviewer.jupyter.org/github/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb)) (Jake VanderPlas)
 
-- **Nov 23, 2015**: Xray and Dask (Anthony Arendt)
+- **Nov 23, 2015**: Xray and Dask ([notebook](http://nbviewer.jupyter.org/url/uwescience.github.io/python-seminar-2015/notebooks/xray_and_dask.ipynb)) (Anthony Arendt)
 
 - **Nov 30, 2015**: Bayesian Analysis with Python (Dan Foreman-Mackey)
 
