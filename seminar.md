@@ -32,6 +32,6 @@ research.
 
 - **Nov 23, 2015**: Xray and Dask ([notebook](http://nbviewer.jupyter.org/url/uwescience.github.io/python-seminar-2015/notebooks/xray_and_dask.ipynb)) (Anthony Arendt)
 
-- **Nov 30, 2015**: Bayesian Analysis with Python (Dan Foreman-Mackey)
+- **Nov 30, 2015**: Bayesian Analysis with Python ([notebook](https://gist.github.com/dfm/56cb93cb677eb591c1eb) - [solution](https://gist.github.com/dfm/4b569de319f2fe4fde21)) (Dan Foreman-Mackey)
 
 - **Dec 7, 2015**: Python and Social Networks (Jose Manuel Magallanes)
