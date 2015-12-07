@@ -34,4 +34,4 @@ research.
 
 - **Nov 30, 2015**: Bayesian Analysis with Python ([notebook](https://gist.github.com/dfm/56cb93cb677eb591c1eb) - [solution](https://gist.github.com/dfm/4b569de319f2fe4fde21)) (Dan Foreman-Mackey)
 
-- **Dec 7, 2015**: Python and Social Networks (Jose Manuel Magallanes)
+- **Dec 7, 2015**: Python and Social Networks ([notebook](http://nbviewer.ipython.org/github/CoursesAndTutorials/IntroToSNA/blob/master/LectureNotes.ipynb)) (Jose Manuel Magallanes)
